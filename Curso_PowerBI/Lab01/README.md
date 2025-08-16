@@ -9,7 +9,7 @@ Este repositório contém um dashboard criado no **Power BI** para análise de v
 
 ## 🔎 Prévia
 
-![Página 1](Lab01/images/Pagina1.png)  
+![Página 1](images/Pagina1.png)  
 
 ---
 
