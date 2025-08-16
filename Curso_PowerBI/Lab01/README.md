@@ -3,8 +3,8 @@
 Este repositório contém um dashboard criado no **Power BI** para análise de vendas.
 
 ## 📊 Conteúdo
-- Arquivo original em Power BI: [`LabPratico1.pbix`](Lab01/LabPratico1.pbix)
-- Versão em PDF: [`LabPratico1.pdf`](Lab01/LabPratico1.pdf)
+- Arquivo original em Power BI: [`LabPratico1.pbix`](LabPratico1.pbix)
+- Versão em PDF: [`LabPratico1.pdf`](LabPratico1.pdf)
 - Pré-visualização das página(s) (abaixo)
 
 ## 🔎 Prévia
